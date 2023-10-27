@@ -2,5 +2,6 @@
 
 fun main(){
 var x:String= "Dhanalakshmi srinivasan college of engineering and Technology"
+println("Hii kotlin")
 println(x)
 }
