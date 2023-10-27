@@ -2,4 +2,5 @@
 
 fun main(){
   println("Hello kotlin")
+  println("Hey Android") //2nd code
 }
